@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+pinecone
+langchain
+langchain-google-genai
+google-generativeai
